@@ -5,6 +5,7 @@ Instructions:
 2. Download the driver 'pyodbc' and make changes to the connections according to your servername.
 3. import the needed libraries and modules.
 
-Members: Sabando, Nelann Lloyd
-         Eramis, Angelou
-         Jamco, Ashley
+Members: 
+Sabando, Nelann Lloyd
+Eramis, Angelou
+Jamco, Ashley
